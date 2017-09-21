@@ -1,4 +1,4 @@
-package Exception;
+package com.ecc.exception;
 
 public class MinimumBoundedIntegerException extends Exception {
 	public MinimumBoundedIntegerException(int minimumThreshold) {
